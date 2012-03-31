@@ -1,0 +1,8 @@
+name: AprilFoolNya
+main: ru.ttyh.AprilFoolNya.AprilFoolNya
+version: 0.3
+author: derlafff
+description: nyan :)
+commands:
+  fullnyan:
+    description: Puts blocks on players heads
